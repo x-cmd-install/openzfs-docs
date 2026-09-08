@@ -5,7 +5,7 @@ about:
   head: 92993b9
   archived: false
   latestVersion: ""
-  collectedAt: 2026-09-08T02:47:52Z
+  collectedAt: 2026-09-08T05:41:08Z
 timeline:
   created: 2020-05-20
   lastCommit: 2026-08-24
@@ -81,7 +81,7 @@ total:
   commit: 716
 ---
 path: /home/runner/.x-repo/github.com/openzfs/openzfs-docs
-collectedAt: 2026-09-08T02:47:54Z
+collectedAt: 2026-09-08T05:41:11Z
 loc:
   ReStructuredText:
     code: 19716
