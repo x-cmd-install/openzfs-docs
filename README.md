@@ -4,7 +4,7 @@
 
 OpenZFS Documentation
 
-![openzfs-docs](https://repo.x-cmd.io/openzfs-docs.svg)
+[![x-cmd/install — openzfs-docs Code Quality Monitoring Repo Card](https://repo.x-cmd.io/openzfs-docs.svg)](https://x-cmd.com/install/openzfs-docs)
 
 ## Install
 
@@ -32,22 +32,22 @@ Total: **24,829** lines of code across **110** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 171 · **Forks**: 235 · **Open issues**: 223 · **Contributors**: 137
+- **Stars**: 171 · **Forks**: 235 · **Open issues**: 224 · **Contributors**: 137
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 329 · **Open PRs**: 8 · **Closed issues**: 179 · **Open issues**: 44 · **Commits**: 716
+- **Releases**: 0 · **Merged PRs**: 329 · **Open PRs**: 8 · **Closed issues**: 179 · **Open issues**: 45 · **Commits**: 716
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 1 | 0 | 1 | 0 | 1 |
-| last60d | 2026-07-20 | 0 | 9 | 0 | 1 | 2 | 22 |
-| 90d | 2026-06-20 | 0 | 9 | 0 | 2 | 2 | 58 |
-| last180d | 2026-03-22 | 0 | 17 | 1 | 2 | 3 | 66 |
-| 360d | 2025-09-23 | 0 | 61 | 2 | 11 | 6 | 128 |
-| last720d | 2024-09-28 | 0 | 79 | 3 | 20 | 14 | 163 |
+| 30d | 2026-08-21 | 0 | 1 | 0 | 1 | 1 | 1 |
+| last60d | 2026-07-22 | 0 | 4 | 0 | 1 | 2 | 22 |
+| 90d | 2026-06-22 | 0 | 9 | 0 | 2 | 3 | 58 |
+| last180d | 2026-03-24 | 0 | 17 | 1 | 2 | 4 | 66 |
+| 360d | 2025-09-25 | 0 | 61 | 2 | 11 | 7 | 128 |
+| last720d | 2024-09-30 | 0 | 78 | 3 | 19 | 15 | 158 |
 
 ## Improve this data
 
@@ -58,4 +58,4 @@ Install metadata for openzfs-docs lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:57:41Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:14:27Z._
