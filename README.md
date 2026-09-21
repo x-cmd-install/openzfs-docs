@@ -32,7 +32,7 @@ Total: **24,829** lines of code across **110** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 171 · **Forks**: 235 · **Open issues**: 224 · **Contributors**: 137
+- **Stars**: 170 · **Forks**: 235 · **Open issues**: 224 · **Contributors**: 137
 
 ## Totals (cumulative)
 
@@ -42,12 +42,12 @@ Total: **24,829** lines of code across **110** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-21 | 0 | 1 | 0 | 1 | 1 | 1 |
-| last60d | 2026-07-22 | 0 | 4 | 0 | 1 | 2 | 22 |
-| 90d | 2026-06-22 | 0 | 9 | 0 | 2 | 3 | 58 |
-| last180d | 2026-03-24 | 0 | 17 | 1 | 2 | 4 | 66 |
-| 360d | 2025-09-25 | 0 | 61 | 2 | 11 | 7 | 128 |
-| last720d | 2024-09-30 | 0 | 78 | 3 | 19 | 15 | 158 |
+| 30d | 2026-08-22 | 0 | 1 | 0 | 1 | 1 | 0 |
+| last60d | 2026-07-23 | 0 | 4 | 0 | 1 | 2 | 2 |
+| 90d | 2026-06-23 | 0 | 9 | 0 | 2 | 3 | 58 |
+| last180d | 2026-03-25 | 0 | 13 | 1 | 2 | 4 | 61 |
+| 360d | 2025-09-26 | 0 | 61 | 2 | 10 | 7 | 128 |
+| last720d | 2024-10-01 | 0 | 78 | 3 | 19 | 15 | 158 |
 
 ## Improve this data
 
@@ -58,4 +58,4 @@ Install metadata for openzfs-docs lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260920.yml` · 2026-09-20T06:14:27Z._
+_Snapshot: `data/card/260921.yml` · 2026-09-21T06:01:45Z._
