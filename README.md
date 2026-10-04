@@ -14,11 +14,11 @@ x install openzfs-docs
 
 ## Code insight
 
-Total: **24,829** lines of code across **110** files in the top 5 languages.
+Total: **24,845** lines of code across **110** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| ReStructuredText | 19,716 | 0 | 7,725 | 99 |
+| ReStructuredText | 19,732 | 0 | 7,729 | 99 |
 | Yaml | 2,938 | 26 | 1 | 1 |
 | Python | 1,556 | 264 | 263 | 6 |
 | Css | 313 | 42 | 48 | 2 |
@@ -32,22 +32,22 @@ Total: **24,829** lines of code across **110** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 170 · **Forks**: 236 · **Open issues**: 224 · **Contributors**: 137
+- **Stars**: 170 · **Forks**: 236 · **Open issues**: 225 · **Contributors**: 138
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 329 · **Open PRs**: 9 · **Closed issues**: 179 · **Open issues**: 45 · **Commits**: 716
+- **Releases**: 0 · **Merged PRs**: 330 · **Open PRs**: 8 · **Closed issues**: 179 · **Open issues**: 46 · **Commits**: 717
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-03 | 0 | 0 | 1 | 0 | 1 | 0 |
-| last60d | 2026-08-04 | 0 | 1 | 1 | 1 | 2 | 1 |
-| 90d | 2026-07-05 | 0 | 9 | 1 | 2 | 3 | 58 |
-| last180d | 2026-04-06 | 0 | 11 | 2 | 2 | 4 | 60 |
-| 360d | 2025-10-08 | 0 | 60 | 3 | 10 | 7 | 127 |
-| last720d | 2024-10-13 | 0 | 78 | 4 | 18 | 12 | 158 |
+| 30d | 2026-09-04 | 0 | 1 | 0 | 0 | 2 | 1 |
+| last60d | 2026-08-05 | 0 | 2 | 0 | 1 | 3 | 2 |
+| 90d | 2026-07-06 | 0 | 10 | 0 | 2 | 4 | 59 |
+| last180d | 2026-04-07 | 0 | 12 | 1 | 2 | 5 | 61 |
+| 360d | 2025-10-09 | 0 | 61 | 2 | 10 | 8 | 128 |
+| last720d | 2024-10-14 | 0 | 79 | 3 | 18 | 13 | 159 |
 
 ## Improve this data
 
@@ -58,4 +58,4 @@ Install metadata for openzfs-docs lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261003.yml` · 2026-10-03T06:08:11Z._
+_Snapshot: `data/card/261004.yml` · 2026-10-04T06:40:29Z._
