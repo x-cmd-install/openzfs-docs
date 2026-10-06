@@ -14,13 +14,13 @@ x install openzfs-docs
 
 ## Code insight
 
-Total: **24,845** lines of code across **110** files in the top 5 languages.
+Total: **25,145** lines of code across **113** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| ReStructuredText | 19,732 | 0 | 7,729 | 99 |
-| Yaml | 2,938 | 26 | 1 | 1 |
-| Python | 1,556 | 264 | 263 | 6 |
+| ReStructuredText | 19,737 | 0 | 7,730 | 99 |
+| Yaml | 2,932 | 26 | 1 | 1 |
+| Python | 1,856 | 271 | 307 | 9 |
 | Css | 313 | 42 | 48 | 2 |
 | JavaScript | 170 | 17 | 25 | 2 |
 
@@ -36,18 +36,18 @@ Total: **24,845** lines of code across **110** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 330 · **Open PRs**: 8 · **Closed issues**: 179 · **Open issues**: 46 · **Commits**: 717
+- **Releases**: 0 · **Merged PRs**: 331 · **Open PRs**: 8 · **Closed issues**: 180 · **Open issues**: 45 · **Commits**: 719
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 0 | 1 | 0 | 0 | 2 | 1 |
-| last60d | 2026-08-06 | 0 | 2 | 0 | 1 | 3 | 2 |
-| 90d | 2026-07-07 | 0 | 10 | 0 | 2 | 4 | 59 |
-| last180d | 2026-04-08 | 0 | 12 | 1 | 2 | 5 | 61 |
-| 360d | 2025-10-10 | 0 | 61 | 2 | 10 | 8 | 127 |
-| last720d | 2024-10-15 | 0 | 79 | 3 | 18 | 13 | 159 |
+| 30d | 2026-09-06 | 0 | 2 | 0 | 1 | 1 | 3 |
+| last60d | 2026-08-07 | 0 | 3 | 0 | 2 | 2 | 4 |
+| 90d | 2026-07-08 | 0 | 11 | 0 | 3 | 3 | 61 |
+| last180d | 2026-04-09 | 0 | 13 | 1 | 3 | 4 | 63 |
+| 360d | 2025-10-11 | 0 | 62 | 2 | 11 | 7 | 129 |
+| last720d | 2024-10-16 | 0 | 80 | 3 | 19 | 12 | 161 |
 
 ## Improve this data
 
@@ -58,4 +58,4 @@ Install metadata for openzfs-docs lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261005.yml` · 2026-10-05T06:38:19Z._
+_Snapshot: `data/card/261006.yml` · 2026-10-06T07:27:13Z._
