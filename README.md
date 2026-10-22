@@ -36,18 +36,18 @@ Total: **25,144** lines of code across **113** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 332 · **Open PRs**: 8 · **Closed issues**: 180 · **Open issues**: 45 · **Commits**: 720
+- **Releases**: 0 · **Merged PRs**: 332 · **Open PRs**: 9 · **Closed issues**: 180 · **Open issues**: 45 · **Commits**: 720
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 0 | 3 | 0 | 1 | 0 | 4 |
-| last60d | 2026-08-22 | 0 | 4 | 0 | 2 | 1 | 4 |
-| 90d | 2026-07-23 | 0 | 7 | 0 | 2 | 2 | 7 |
-| last180d | 2026-04-24 | 0 | 13 | 1 | 3 | 4 | 63 |
-| 360d | 2025-10-26 | 0 | 62 | 2 | 9 | 6 | 127 |
-| last720d | 2024-10-31 | 0 | 81 | 3 | 19 | 12 | 162 |
+| 30d | 2026-09-22 | 0 | 3 | 1 | 1 | 0 | 4 |
+| last60d | 2026-08-23 | 0 | 4 | 1 | 1 | 1 | 4 |
+| 90d | 2026-07-24 | 0 | 7 | 1 | 2 | 2 | 7 |
+| last180d | 2026-04-25 | 0 | 13 | 2 | 3 | 4 | 63 |
+| 360d | 2025-10-27 | 0 | 62 | 2 | 9 | 6 | 127 |
+| last720d | 2024-11-01 | 0 | 81 | 4 | 19 | 12 | 162 |
 
 ## Improve this data
 
@@ -58,4 +58,4 @@ Install metadata for openzfs-docs lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T05:40:55Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T05:40:57Z._
