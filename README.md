@@ -14,11 +14,11 @@ x install openzfs-docs
 
 ## Code insight
 
-Total: **25,144** lines of code across **113** files in the top 5 languages.
+Total: **25,163** lines of code across **113** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| ReStructuredText | 19,736 | 0 | 7,730 | 99 |
+| ReStructuredText | 19,755 | 0 | 7,739 | 99 |
 | Yaml | 2,932 | 26 | 1 | 1 |
 | Python | 1,856 | 271 | 307 | 9 |
 | Css | 313 | 42 | 48 | 2 |
@@ -36,18 +36,18 @@ Total: **25,144** lines of code across **113** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 332 · **Open PRs**: 9 · **Closed issues**: 180 · **Open issues**: 45 · **Commits**: 720
+- **Releases**: 0 · **Merged PRs**: 333 · **Open PRs**: 8 · **Closed issues**: 180 · **Open issues**: 45 · **Commits**: 721
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 3 | 1 | 1 | 0 | 4 |
-| last60d | 2026-08-23 | 0 | 4 | 1 | 1 | 1 | 4 |
-| 90d | 2026-07-24 | 0 | 7 | 1 | 2 | 2 | 7 |
-| last180d | 2026-04-25 | 0 | 13 | 2 | 3 | 4 | 63 |
-| 360d | 2025-10-27 | 0 | 62 | 2 | 9 | 6 | 127 |
-| last720d | 2024-11-01 | 0 | 81 | 4 | 19 | 12 | 162 |
+| 30d | 2026-09-23 | 0 | 4 | 0 | 1 | 0 | 5 |
+| last60d | 2026-08-24 | 0 | 4 | 0 | 1 | 1 | 5 |
+| 90d | 2026-07-25 | 0 | 8 | 0 | 2 | 2 | 8 |
+| last180d | 2026-04-26 | 0 | 14 | 1 | 3 | 4 | 64 |
+| 360d | 2025-10-28 | 0 | 62 | 1 | 9 | 6 | 128 |
+| last720d | 2024-11-02 | 0 | 82 | 3 | 19 | 12 | 163 |
 
 ## Improve this data
 
@@ -58,4 +58,4 @@ Install metadata for openzfs-docs lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:40:57Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:50:08Z._
