@@ -42,12 +42,12 @@ Total: **25,163** lines of code across **113** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 0 | 1 | 0 | 0 | 0 | 2 |
-| last60d | 2026-09-22 | 0 | 5 | 0 | 1 | 0 | 7 |
-| 90d | 2026-08-23 | 0 | 6 | 0 | 1 | 1 | 8 |
-| last180d | 2026-05-25 | 0 | 14 | 0 | 3 | 3 | 65 |
-| 360d | 2025-11-26 | 0 | 56 | 1 | 9 | 5 | 117 |
-| last720d | 2024-12-01 | 0 | 82 | 3 | 19 | 12 | 165 |
+| 30d | 2026-10-23 | 0 | 1 | 0 | 0 | 0 | 2 |
+| last60d | 2026-09-23 | 0 | 5 | 0 | 1 | 0 | 7 |
+| 90d | 2026-08-24 | 0 | 5 | 0 | 1 | 1 | 8 |
+| last180d | 2026-05-26 | 0 | 14 | 0 | 3 | 3 | 65 |
+| 360d | 2025-11-27 | 0 | 56 | 1 | 9 | 5 | 117 |
+| last720d | 2024-12-02 | 0 | 82 | 3 | 19 | 12 | 165 |
 
 ## Improve this data
 
@@ -58,4 +58,4 @@ Install metadata for openzfs-docs lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T08:30:25Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T07:47:06Z._
